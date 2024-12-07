@@ -30,7 +30,6 @@
         <th>Frontend Development</th>
         <th>Databases</th>
         <th>IDEs</th>
-        <th>Other Tools</th>
       </tr>
     </thead>
     <tbody>
@@ -39,7 +38,6 @@
         <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=androidstudio,unity,visualstudio,eclipse" /> </td>
-        <td align="center"> <img src="https://skillicons.dev/icons?i=git,linux,ubuntu" /> </td>
       </tr>
     </tbody>
   </table>
