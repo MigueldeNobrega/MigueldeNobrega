@@ -4,15 +4,23 @@
 </p>
 
 #### About Me
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 <ul>
   <li>👋 Hi, I’m @MigueldeNobrega</li>
   <li>🙋 I’m a Cross-Platform App Developer</li>
   <li>🌱 I’m a Competitive Programmer who loves to Continue Learning in his free time.</li>
 </ul>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-
-
+#### Popular Projects
+<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+</a>    
+<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+</a>
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
