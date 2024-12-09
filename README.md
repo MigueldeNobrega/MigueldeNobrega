@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/MigueldeNobrega">Miguel de Nóbrega</a>'s Profile</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/MigueldeNobrega" >Miguel de Nóbrega</a>'s Profile</h1>
 </p>
 
 ### About Me
@@ -12,13 +12,14 @@
 
 
 ### Popular Projects
+
 <a href="https://github.com/MigueldeNobrega/Futbol_Connection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MigueldeNobrega&repo=Futbol_Connection&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=Futbol_Connection&theme=react" />
 </a>    
 <a href="https://github.com/MigueldeNobrega/Foro_Usuarios_Admin">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MigueldeNobrega&repo=Foro_Usuarios_Admin&theme=onedark"/>
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=Foro_Usuarios_Admin&theme=react"/>
 </a>
 <br></br>
 
@@ -62,12 +63,12 @@
 ### Stats
 <a href="https://github.com/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueldeNobrega&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueldeNobrega&layout=compact&theme=react" />
 </a>
 <br></br>
 <a >
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MigueldeNobrega&theme=onedark" alt="MigueldeNobrega" />
+   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MigueldeNobrega&theme=react" alt="MigueldeNobrega" />
 </a>
 
 
