@@ -71,7 +71,6 @@
    <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MigueldeNobrega&theme=react" alt="MigueldeNobrega" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MigueldeNobrega" alt="GitHub Streak" /></a>
 
 
 
