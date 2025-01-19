@@ -62,7 +62,7 @@
 
 ### Stats
 <a href="https://github.com/github-readme-stats">
-  <img alt="MigueldeNobrega's Github Stats" src="https://github-readme-stats-MigueldeNobregas-projects.vercel.app/api/top-langs/?username=MigueldeNobrega&theme=react&hide_border=true&count_private=true&layout=compact&langs_count=15"/>
+<img alt="MigueldeNobrega's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueldeNobrega&theme=react&hide_border=true&count_private=true&layout=compact&langs_count=15"/>
 </a>
 <br></br>
 <a>
