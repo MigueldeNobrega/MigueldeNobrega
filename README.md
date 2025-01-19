@@ -66,10 +66,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueldeNobrega&layout=compact&theme=react" />
 </a>
 <br></br>
-<a >
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MigueldeNobrega&theme=react" alt="MigueldeNobrega" />
+<a>
+  <img align="center" height="150em" src="https://streak-stats.demolab.com/?user=MigueldeNobrega&theme=react" alt="MigueldeNobrega" />
 </a>
+
 
 
 
