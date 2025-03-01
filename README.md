@@ -13,9 +13,9 @@
 
 ### Popular Projects
 
-<a href="https://github.com/MigueldeNobrega/Futbol_Connection">
+<a href="https://github.com/MigueldeNobrega/Futbol_Connection_Notes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=Futbol_Connection&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=Futbol_Connection_Notes&theme=react" />
 </a>    
 <a href="https://github.com/MigueldeNobrega/Foro_Usuarios_Admin">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
