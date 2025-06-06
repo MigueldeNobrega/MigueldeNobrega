@@ -11,11 +11,11 @@
 </ul>
 
 
-### Popular Projects
+### Best Projects
 
-<a href="https://github.com/MigueldeNobrega/Futbol_Connection_Notes">
+<a href="https://github.com/MigueldeNobrega/JOIN_TFG">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=Futbol_Connection_Notes&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MigueldeNobrega&repo=JOIN_TFG&theme=react" />
 </a>    
 <a href="https://github.com/MigueldeNobrega/Foro_Usuarios_Admin">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -35,7 +35,7 @@
     <tbody>
       <tr>
         <td align="center"> <img src="https://skillicons.dev/icons?i=java,spring,cs,py,php" /> </td>
-        <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </td>
+        <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript,tailwind" /> </td>
       </tr>
     </tbody>
   </table>
@@ -50,6 +50,18 @@
       <tr>
         <td align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=androidstudio,unity,visualstudio,eclipse,vscode" /> </td>
+      </tr>
+    </tbody>
+  </table>
+    <table>
+    <thead>
+      <tr>
+        <th>Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"> <img src="https://skillicons.dev/icons?i=git,postman,figma" /> </td>
       </tr>
     </tbody>
   </table>
