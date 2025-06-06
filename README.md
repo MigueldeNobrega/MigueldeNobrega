@@ -44,27 +44,18 @@
       <tr>
         <th>Databases</th>
         <th>IDEs</th>
+        <th>Tools</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </td>
         <td align="center"> <img src="https://skillicons.dev/icons?i=androidstudio,unity,visualstudio,eclipse,vscode" /> </td>
+         <td align="center"> <img src="https://skillicons.dev/icons?i=git,postman,figma" /> </td>
       </tr>
     </tbody>
   </table>
-    <table>
-    <thead>
-      <tr>
-        <th>Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"> <img src="https://skillicons.dev/icons?i=git,postman,figma" /> </td>
-      </tr>
-    </tbody>
-  </table>
+ 
   
 
 
